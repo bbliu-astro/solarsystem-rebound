@@ -1,0 +1,10 @@
+AU = 1.4959787e13 # 1 astronimical unit [cm]
+Msun = 1.9891e33 # 1 solar mass [g]
+Lsun = 3.839e+33 # 1 solar luminoisty [ergs/s]
+Mearth = 5.972e27 # 1 earth mass [g]
+Year = 3.15576e+7 # 1 year [s]
+G = 6.674e-8  # gravitational constant [cm^3/g/s^2]
+Omega = (G*Msun/AU**3)**0.5 # angular velocity at 1AU [s^-1]  
+mu = 2.33 # mean molecular weight
+Rg = 8.31446e+7 # gas constant [erg/s/cm^2/K^4]
+sigma = 5.67e-5 # stefan Boltzman constant [erg/s/cm^2/K^4]
