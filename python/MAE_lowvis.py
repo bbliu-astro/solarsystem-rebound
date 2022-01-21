@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### an example of 5-planet system with low-viscous gas disk 
-### Figure 9 of Liu_etal_2021
+### Figure 9 of Liu_etal_2022
 
 import matplotlib.pyplot as plt
 import numpy as np
