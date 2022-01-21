@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### an example of 4-planet system with gas and plt dis
-### Figure 3a of Liu_etal_2021
+### Figure 3a of Liu_etal_2022
 import matplotlib.pyplot as plt
 import numpy as np
 import math
