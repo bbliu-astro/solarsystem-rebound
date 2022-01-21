@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### planet system semimajor axis vs ecc and inc including both gas and plt disk 
-### Figure 4 of Liu_etal_2021
+### Figure 4 of Liu_etal_2022
 ### sampleX_m is the quantity X at the end of the dispersal phase t=10 Myr 
 ### sampleX_5/10/20 is the quantity X at t=100 Myr with plt disk of different masses
 ### data obtained from solarsystem_rebound/sim/plt/ 
