@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### AMD and RMC plots in the parameter study
-### Figure 3 & Extended data Figure 1,2,3 of Liu_etal_2021
+### Figure 3 & Extended data Figure 1,2,3 of Liu_etal_2022
 
 import matplotlib.pyplot as plt
 import numpy as np
