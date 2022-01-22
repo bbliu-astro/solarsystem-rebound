@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### Jupiter eccentricity mode vs visousity Jupiter-Saturn period ratio 
-### Extened Data Figure 7 of Liu_etal_2022
+### Extened Data Figure 6 of Liu_etal_2022
 import matplotlib.pyplot as plt
 import numpy as np
 import math
