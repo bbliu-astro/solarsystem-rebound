@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### gap opening mass vs visousity and disk aspect ratio 
-### Extened Data Figure 7 of Liu_etal_2022
+### Extened Data Figure 9 of Liu_etal_2022
 import matplotlib.pyplot as plt
 import numpy as np
 import math
