@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ### culmulative distributions of instability time, 
 ### culmulative distributions of delay time between ice and gas giant planets 
-### Extended Data Figure 9 of Liu_etal_2022
+### Extended Data Figure 11 of Liu_etal_2022
 import matplotlib.pyplot as plt
 import numpy as np
 import math
