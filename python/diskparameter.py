@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 ### outcome vs three disk parameters in the parameter study 
-### Extended data Figure 4,5 of Liu_etal_2022
+### Extended data Figure 6,7 of Liu_etal_2022
 import matplotlib.pyplot as plt
 import numpy as np
 import math
